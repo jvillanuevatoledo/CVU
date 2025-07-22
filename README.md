@@ -8,12 +8,12 @@ El objetivo de este proyecto es mostrar mi perfil académico y profesional de fo
 
 <img src="assets/img/foto.jpg" alt="Foto de Ricardo Villanueva" width="120px" style="border-radius: 50%; border: 2px solid #ccc;" />
 
-**Jairo R. Villanueva-Toledo**  
-Investigador por México de la SECIHTI.  
-Comisionado al HRAEPY del IMSS-Bienestar.  
+**JAIRO R. VILLANUEVA-TOLEDO**  
+Investigador por México de la [SECIHTI](https://secihti.mx/).  
+Comisionado al [HRAEPY](https://www.gob.mx/salud%7Chraepy) del IMSS-Bienestar.  
 Presidente del H. Comité de Bioseguridad del HRAEPY-IMSS Bienestar.  
 Investigador en oncología y ciencia de datos biomédicos.  
-Especialista en **citometría de flujo multicolor** y modelado estadístico aplicado a la salud.
+Especialista en citometría de flujo multicolor y modelado estadístico aplicado a la salud.
 
 ---
 

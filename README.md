@@ -1,8 +1,6 @@
-# CVU: Jairo Villanueva
+# CVU: Jairo Villanueva-Toledo
 
-Este sitio web es una representación interactiva y profesional de mi **Currículum Vitae Único (CVU)**, desarrollado con [Jekyll](https://jekyllrb.com) y alojado en [GitHub Pages](https://pages.github.com/).
-
-El objetivo de este proyecto es mostrar mi perfil académico y profesional de forma accesible y clara, integrando los elementos típicos de un CVU utilizado por instituciones como CONACYT, SNI y universidades mexicanas.
+El objetivo de este proyecto es mostrar mi perfil académico y profesional de forma accesible y clara.
 
 ---
 
@@ -10,8 +8,11 @@ El objetivo de este proyecto es mostrar mi perfil académico y profesional de fo
 
 <img src="assets/img/foto.jpg" alt="Foto de Ricardo Villanueva" width="120px" style="border-radius: 50%; border: 2px solid #ccc;" />
 
-**Ricardo Villanueva**  
-Investigador en inmunología y ciencia de datos biomédicos.  
+**Jairo R. Villanueva-Toledo**  
+Investigador por México de la SECIHTI.  
+Comisionado al HRAEPY del IMSS-Bienestar.  
+Presidente del H. Comité de Bioseguridad del HRAEPY-IMSS Bienestar.  
+Investigador en oncología y ciencia de datos biomédicos.  
 Especialista en **citometría de flujo multicolor** y modelado estadístico aplicado a la salud.
 
 ---
